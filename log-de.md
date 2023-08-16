@@ -1,6 +1,6 @@
 # 100 Days Of Code - Logbuch
 
-### Tag 0: 20. Februar 2016 (Beispiel 1)
+### Tag 0: 17. August 2023 (Beispiel 1)
 ##### (lösche oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
@@ -9,7 +9,7 @@
 
 **Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
-### Tag 1: 21. Februar 2016
+### Tag 1: 18. August 2023
 ##### (lösche mich oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: CSS Korrektur, Arbeit an der Canvas Funktionalität der App.
@@ -19,7 +19,7 @@
 **Link zur Arbeit:** [Taschenrechner App](http://www.example.com)
 
 
-### Tag 1: Montag, 27. Juni (Beispiel 2)
+### Tag 1: 19. August 2023 (Beispiel 2)
 
 **Heutiger Fortschritt**: Ich bin einige Übungen auf freeCodeCamp durchgegangen.
 
