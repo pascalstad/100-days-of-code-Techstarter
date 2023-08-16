@@ -9,7 +9,8 @@
 ## Zusätzliche Regeln
 1. Ich werde meinen Code jeden Tag auf GitHub hochladen, sodass jeder meinen Fortschritt sehen kann.
 2. Ich werde mein [Logbuch](log.md) mit dem täglichen Fortschritt aktualisieren und einen Link hinzufügen, sodass andere meinen Fortschritt sehen können.
-3. Ich werde an realen Projekten arbeiten und mich echten Herausforderungen stellen. Die Zeit, die ich für Tutorials, Online-Kurse oder ähnliche Quellen aufbringe, werden nicht zur Challenge hinzugezählt. 
+3. Ich werde jeden Freitag ein kurzes Update für alle geben woran ich gearbeitet habe diese Woche.
+4. Ich werde an realen Projekten arbeiten und mich echten Herausforderungen stellen. Die Zeit, die ich für Tutorials, Online-Kurse oder ähnliche Quellen aufbringe, werden nicht zur Challenge hinzugezählt. 
 
 ## Ideen, um diese Challenge effektiver zu gestalten
 1. Um die Chancen auf Erfolg zu erhöhen, füge jedem deiner täglichen Einträge in deinem [Logbuch](log.md) einen Link hinzu. Dies kann z.B. ein Link zu einem GitHub Commit oder einem Blog Post sein.
