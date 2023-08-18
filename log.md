@@ -1,7 +1,6 @@
 # 100 Days Of Code - Logbuch
 
 ### Tag 0: 17. August 2023
-##### (lösche oder kommentiere mich aus)
 
 **Heutiger Fortschritt**: einige Ideen gefunden
 
