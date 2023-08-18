@@ -4,7 +4,7 @@
 ### *Ich werde während der nächsten 100 Tage mindestens 30 Minuten am Tag coden.*
 
 #### Start-Datum
-25. Juni 2023 [Füge hier dein Start-Datum ein]
+17. August 2023
 
 ## Zusätzliche Regeln
 1. Ich werde meinen Code jeden Tag auf GitHub hochladen, sodass jeder meinen Fortschritt sehen kann.
