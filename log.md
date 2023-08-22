@@ -12,21 +12,25 @@
 
 **Gedanken:** Wahrscheinlich ist es von Vorteil ein neues Programm kennen zu lernen für meine weitere Laufbahn. Ob ich mich für das richtige Projekt entschieden habe, weiß ich nicht, aber ich habe Bock drauf.
 
-### Tag 1: 19. August 2023
+### Tag 2: 19. August 2023
 
 **Heutiger Fortschritt**: Mit IntelliJ vertraut gemacht und nötige Plugins installiert.
 
 **Gedanken:** IntelliJ ist VS Code recht ähnlich. 
 
-### Tag 1: 20. August 2023
+### Tag 3: 20. August 2023
+
+**Heutiger Fortschritt**: IntelliJ weiter erkundet.
+
+**Gedanken:** Nettes Programm, der Aufbau ist noch etwas ungewohnt, aber ich denke ich finde mich schon zurecht.
+
+### Tag 4: 21. August 2023
 
 **Heutiger Fortschritt**: Angefangen Java zu lernen.
 
 **Gedanken:** Java scheint mir wirklich komplizierter zu sein, als alles was wir bisher im Kurs gelernt haben.
 
-**Link zur Arbeit:** 
-
-### Tag 1: 21. August 2023
+### Tag 5: 22. August 2023
 
 **Heutiger Fortschritt**: 
 
@@ -34,7 +38,7 @@
 
 **Link zur Arbeit:** 
 
-### Tag 1: 22. August 2023
+### Tag 6: 23. August 2023
 
 **Heutiger Fortschritt**: 
 
