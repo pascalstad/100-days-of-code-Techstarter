@@ -32,11 +32,9 @@
 
 ### Tag 5: 22. August 2023
 
-**Heutiger Fortschritt**: 
+**Heutiger Fortschritt**: Mit einem Tutorial ein erstes Plugin geschrieben. Server zum testen aufgesetzt.
 
-**Gedanken:** 
-
-**Link zur Arbeit:** 
+**Gedanken:** Ich dachte einen Server aufzusetzen wäre komplizierter. Das Coden und testen macht Spaß.
 
 ### Tag 6: 23. August 2023
 
