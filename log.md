@@ -38,8 +38,18 @@
 
 ### Tag 6: 23. August 2023
 
+**Heutiger Fortschritt**: Fehlersuche.
+
+**Gedanken:** Heute ist der Wurm drin. Der Server startet nicht mehr. Ich konnte den Fehler heute nicht beheben.
+
+### Tag 7: 24. August 2023
+
+**Heutiger Fortschritt**: Fehlersuche ... again.
+
+**Gedanken:** Ich habe nun alles neu aufgesetzt und kann den Fehler immernoch nicht beheben.
+
+### Tag 8: 25. August 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:** 
-
-**Link zur Arbeit:** 
