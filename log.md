@@ -50,6 +50,12 @@
 
 ### Tag 8: 25. August 2023
 
+**Heutiger Fortschritt**: Fehlersuche zu Ende gebracht.
+
+**Gedanken:** Nach dem dritten Mal alles neu aufsetzen und analysieren, habe ich keine weiteren Fehler mehr gefunden und                   kann ab morgen wieder normal weiter machen.
+
+### Tag 9: 26. August 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:** 
