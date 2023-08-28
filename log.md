@@ -34,7 +34,7 @@
 
 **Heutiger Fortschritt**: Mit einem Tutorial ein erstes Plugin geschrieben. Server zum testen aufgesetzt.
 
-**Gedanken:** Ich dachte einen Server aufzusetzen wäre komplizierter. Das Coden und testen macht Spaß.
+**Gedanken:** Ich dachte einen Server aufzusetzen wäre komplizierter. Das Coden und testen macht Spaß. 
 
 ### Tag 6: 23. August 2023
 
@@ -56,6 +56,24 @@
 
 ### Tag 9: 26. August 2023
 
+**Heutiger Fortschritt**: kein Fortschritt.
+
+**Gedanken:** nach meiner OP am Freitag konnte ich meinen Arm nicht bewegen und musste leider aussetzen.
+
+### Tag 10: 27. August 2023
+
+**Heutiger Fortschritt**: kein Fortschritt.
+
+**Gedanken:** nach meiner OP am Freitag konnte ich meinen Arm nicht bewegen und musste leider aussetzen. Ich hoffe morgen                  ist es wieder besser.
+
+### Tag 11: 28. August 2023
+
+**Heutiger Fortschritt**: Aussehen des Timers angepasst.
+
+**Gedanken:** Den timer zu coden war deutlich umfangreicher, aber es ging heute nur um das Aussehen.
+
+### Tag 12: 29. August 2023
+
 **Heutiger Fortschritt**: 
 
-**Gedanken:** 
+**Gedanken:**
