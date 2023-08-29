@@ -70,13 +70,13 @@
 
 **Heutiger Fortschritt**: Aussehen des Timers angepasst.
 
-**Gedanken:** Den timer zu coden war deutlich umfangreicher, aber es ging heute nur um das Aussehen.
+**Gedanken:** Den Timer zu coden war deutlich umfangreicher, aber es ging heute nur um das Aussehen.
 
 ### Tag 12: 29. August 2023
 
-**Heutiger Fortschritt**: 
+**Heutiger Fortschritt**: Timer final angepasst. Der Timer zeigt nun bei Bedarf auch Stunden, Tage und Wochen an.
 
-**Gedanken:**
+**Gedanken:** Ich freue mich schon sehr auf das nächste, der Timer war nur die Grundlage.
 
 ### Tag 13: 30. August 2023
 
