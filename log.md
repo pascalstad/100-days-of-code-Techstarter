@@ -64,7 +64,7 @@
 
 **Heutiger Fortschritt**: kein Fortschritt.
 
-**Gedanken:** nach meiner OP am Freitag konnte ich meinen Arm nicht bewegen und musste leider aussetzen. Ich hoffe morgen                  ist es wieder besser.
+**Gedanken:** nach meiner OP am Freitag konnte ich meinen Arm nicht bewegen und musste leider aussetzen.
 
 ### Tag 11: 28. August 2023
 
@@ -73,6 +73,12 @@
 **Gedanken:** Den timer zu coden war deutlich umfangreicher, aber es ging heute nur um das Aussehen.
 
 ### Tag 12: 29. August 2023
+
+**Heutiger Fortschritt**: 
+
+**Gedanken:**
+
+### Tag 13: 30. August 2023
 
 **Heutiger Fortschritt**: 
 
