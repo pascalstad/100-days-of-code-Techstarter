@@ -80,6 +80,30 @@
 
 ### Tag 13: 30. August 2023
 
+**Heutiger Fortschritt**: Recherche Plugin Daten speichern bei Server reload.
+
+**Gedanken:** Ich hatte heute nicht viel Zeit und konnte somit nur recherchieren.
+
+### Tag 14: 31. August 2023
+
+**Heutiger Fortschritt**: Recherche Plugin Daten speichern bei Server reload.
+
+**Gedanken:** Die recherche ging heute weiter.
+
+### Tag 15: 01. September 2023
+
+**Heutiger Fortschritt**: Plugin Daten speichern.
+
+**Gedanken:** Heute habe ich es noch nicht fertig gebracht, aber ich denke morgen sollte es klappen.
+
+### Tag 16: 02. September 2023
+
+**Heutiger Fortschritt**: Plugin Daten speichern.
+
+**Gedanken:** Ich habe heute erfolgreich meine ersten Daten speichern können und sie nach dem Server reload wieder verwendet.
+
+### Tag 17: 03. September 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
