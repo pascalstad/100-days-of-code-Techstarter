@@ -104,6 +104,24 @@
 
 ### Tag 17: 03. September 2023
 
+**Heutiger Fortschritt**: Udemy Kurs angefangen 'Java Programming Masterclass updated to Java 17' Abschnitt 1.
+
+**Gedanken:** Die ersten Abshcnitte werden nicht sonderlich interessant für mich, da ich schon ein stehendes Setup habe. Trotzdem gehört es dazu und evtl. kann                 ich dadurch auch noch etwas lernen
+
+### Tag 18: 04. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 2 und die erste Hälfte Abschnitt 3.
+
+**Gedanken:**
+
+### Tag 19: 05. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' restlicher Abschnitt 3.
+
+**Gedanken:**
+
+### Tag 20: 06. September 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
