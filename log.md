@@ -175,6 +175,6 @@
 
 ### Tag 25: 11. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (34 - 39).
+**Heutiger Fortschritt**: 
 
 **Gedanken:**
