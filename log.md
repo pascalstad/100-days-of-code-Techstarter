@@ -165,15 +165,24 @@
 
 **Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (27 - 33).
 
-**Gedanken:** Raus aus JShell, rein in IntelliJ. Das Programm habe ich schon kennengelernt, aber es gab noch ein paar hilfreiche Tipps. Außerdem wieder Grundlagen, Super zum auffrischen.
+**Gedanken:** Raus aus JShell, rein in IntelliJ. Das Programm habe ich schon kennengelernt, aber es gab noch ein paar hilfreiche Tipps. Außerdem erste Einblicke in Java, die ich auch schon kennengelernt habe.
 
 
 ### Tag 24: 10. September 2023
 
-**Heutiger Fortschritt**: Kein Fortschritt.
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (34 - 37).
+
+**Gedanken:** Weiterhin bekannte Grundlagen, zum auffrischen super.
 
 
 ### Tag 25: 11. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (37 - 41).
+
+**Gedanken:** So langsam wird es sehr Java spezifisch. Alles etwas anders als Python oder JavaScript, aber ich komme gut klar.
+
+
+### Tag 26: 12. September 2023
 
 **Heutiger Fortschritt**: 
 
