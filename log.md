@@ -177,12 +177,19 @@
 
 ### Tag 25: 11. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (37 - 41).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (38 - 41).
 
 **Gedanken:** So langsam wird es sehr Java spezifisch. Alles etwas anders als Python oder JavaScript, aber ich komme gut klar.
 
 
 ### Tag 26: 12. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (42 - 44).
+
+**Gedanken:** Ein paar weitere Grundlagen zu Java und hilfreiche Tipps. Bisher hatte ich mit den Challenges keine Probleme.
+
+
+### Tag 27: 13. September 2023
 
 **Heutiger Fortschritt**: 
 
