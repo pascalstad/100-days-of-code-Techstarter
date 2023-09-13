@@ -191,6 +191,12 @@
 
 ### Tag 27: 13. September 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (45 - 48).
+
+**Gedanken:** Weitere Grundlagen, Challenge wieder gut gemeistert.
+
+### Tag 28: 14. September 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
