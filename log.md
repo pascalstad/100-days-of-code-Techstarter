@@ -195,7 +195,22 @@
 
 **Gedanken:** Weitere Grundlagen, Challenge wieder gut gemeistert.
 
+
 ### Tag 28: 14. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (49 - 50 (coding exercises 1 - 3)).
+
+**Gedanken:** Die Code Comparison Funktion von IntelliJ ist sehr interessant und wahrscheinlich ziemlich hilfreich.
+
+
+### Tag 29: 15. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (50 (coding exercises 4 - 5)).
+
+**Gedanken:** Mit den coding exercises komme ich gut klar. Bei Nummer 5 war leider die Aufgabendefinition etwas zu ungenau, weshalb ich es nicht hinbekommen habe. Mit Hilfe der Community habe ich herausfinden können, dass es an der Definition und nicht an mir liegt.
+
+
+### Tag 29: 16. September 2023
 
 **Heutiger Fortschritt**: 
 
