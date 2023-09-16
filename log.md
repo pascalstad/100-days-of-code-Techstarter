@@ -212,6 +212,13 @@
 
 ### Tag 29: 16. September 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (50 (coding exercises 6 - 8)).
+
+**Gedanken:** Die letzten drei waren wieder besser formuliert und so konnte ich sie recht schnell lösen. Ich habe, nachdem ich einen Code geschrieben habe, auch schon Möglichkeiten gefunden, diesen zu kürzen und zu optimieren. Ich komme sehr gut voran.
+
+
+### Tag 30: 17. September 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
