@@ -219,6 +219,13 @@
 
 ### Tag 30: 17. September 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (51 - 52).
+
+**Gedanken:** Ich werde mir overloaded methods nochmal genauer anschauen, die Challenge habe ich geschaft, habe aber noch nicht genau verstanden wofür ich diese brauche.
+
+
+### Tag 31: 18. September 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
