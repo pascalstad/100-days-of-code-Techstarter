@@ -177,78 +177,115 @@
 
 ### Tag 25: 11. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (38 - 41).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 - 5 (38 - 41).
 
 **Gedanken:** So langsam wird es sehr Java spezifisch. Alles etwas anders als Python oder JavaScript, aber ich komme gut klar.
 
 
 ### Tag 26: 12. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (42 - 44).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (42 - 44).
 
 **Gedanken:** Ein paar weitere Grundlagen zu Java und hilfreiche Tipps. Bisher hatte ich mit den Challenges keine Probleme.
 
 
 ### Tag 27: 13. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (45 - 48).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (45 - 48).
 
 **Gedanken:** Weitere Grundlagen, Challenge wieder gut gemeistert.
 
 
 ### Tag 28: 14. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (49 - 50 + coding exercises 1 - 3).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (49 - 50 + coding exercises 1 - 3).
 
 **Gedanken:** Die Code Comparison Funktion von IntelliJ ist sehr interessant und wahrscheinlich ziemlich hilfreich.
 
 
 ### Tag 29: 15. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (coding exercises 4 - 5).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (coding exercises 4 - 5).
 
 **Gedanken:** Mit den coding exercises komme ich gut klar. Bei Nummer 5 war leider die Aufgabendefinition etwas zu ungenau, weshalb ich es nicht hinbekommen habe. Mit Hilfe der Community habe ich herausfinden können, dass es an der Definition und nicht an mir liegt.
 
 
 ### Tag 29: 16. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (coding exercises 6 - 8).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (coding exercises 6 - 8).
 
 **Gedanken:** Die letzten drei waren wieder besser formuliert und so konnte ich sie recht schnell lösen. Ich habe, nachdem ich einen Code geschrieben habe, auch schon Möglichkeiten gefunden, diesen zu kürzen und zu optimieren. Ich komme sehr gut voran.
 
 
 ### Tag 30: 17. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (51 - 52).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (51 - 52).
 
 **Gedanken:** Ich werde mir overloaded methods nochmal genauer anschauen, die Challenge habe ich geschaft, habe aber noch nicht genau verstanden wofür ich diese brauche.
 
 
 ### Tag 31: 18. September 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (53 - 54).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (53 - 54).
 
 **Gedanken:** Mit der Challenge hatte ich schon etwas mehr Probleme, aber ich habe mich heute auch nicht sehr wohl gefühlt.
 
 
 ### Tag 32: 19. September 2023
 
-**Heutiger Fortschritt**: Kein Fortschritt.
+**Heutiger Fortschritt**: Kein Fortschritt
 
 
 ### Tag 33: 20. September 2023
 
-**Heutiger Fortschritt**: Kein Fortschritt.
-
-
-### Tag 34: 21. September 2023
-
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 4 (coding exercises 9 - 12).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 5 (coding exercises 9 - 12).
 
 **Gedanken:** Mit den coding exercises hatte ich keine Probleme.
 
 
+### Tag 34: 21. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (55 - 57).
+
+**Gedanken:** Weiter mit der nächsten Lektion, es bleibt weiterhin sehr interessant.
+
+
 ### Tag 35: 22. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (58 - 59).
+
+**Gedanken:** Die Challenges stellten weider kein Problem für mich dar.
+
+
+### Tag 36: 23. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 13 - 14).
+
+**Gedanken:** Die coding exercises werden schon anspruchsvoller, aber wirklich Probleme hatte ich nicht.
+
+
+### Tag 37: 24. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (60).
+
+**Gedanken:** Mit Schleifen bin ich bisher nicht gut klar gekommen, aber ich habe mir etwas mehr Zeit genommen und denke ich habe es nun besser verstanden.
+
+
+### Tag 38: 25. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (61).
+
+**Gedanken:** Mit der Challenge habe ich mir etwas mehr Zeit gelassen, um sicherzustellen dass ich es wirklich verstanden habe.
+
+
+### Tag 39: 26. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (62).
+
+**Gedanken:** Die Challenge war kein Problem für mich, offensichtlich habe ich die for Schleife gut verstanden. Die Funktion des Debuggers war mir schon bekannt, ich hatte bisher nur nicht wirklich die Möglichkeit diesen für mich sinnvoll zu nutzen.
+
+
+### Tag 40: 27. September 2023
 
 **Heutiger Fortschritt**: 
 
