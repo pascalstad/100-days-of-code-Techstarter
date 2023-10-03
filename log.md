@@ -287,6 +287,44 @@
 
 ### Tag 40: 27. September 2023
 
-**Heutiger Fortschritt**: 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (63 + coding exercise 15).
 
-**Gedanken:**
+**Gedanken:** Durch einen kleinen Fehler, den ich nicht bemerkt oder entdeckt habe, dauerte die coding exercise länger. Ich hatte anfangs die richtige Lösung.
+
+
+### Tag 41: 28. September 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt. (Internet Ausfall)
+
+
+### Tag 42: 29. September 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt. (Internet Ausfall)
+
+
+### Tag 43: 30. September 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (64 - 65).
+
+**Gedanken:** Es geht weiter mit while Schleifen, scheint mir nicht schwerer zu sein als die for Schleifen.
+
+
+### Tag 44: 01. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (66).
+
+**Gedanken:** Ich wusste Anfangs nicht, wie ich an diese Challenge heran gehen soll und musste etwas länger darüber nachdenken. Auch wenn es dadurch länger gedauert hat, habe ich am Ende eine richtige Lösung gefunden.
+
+
+### Tag 45: 02. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (67 - 69).
+
+**Gedanken:** Recap des bisherigen und allgemeine Informationen zu Klassen, Methoden, Objekten, etc. Ich finde es nach wie vor sehr spannend.
+
+
+### Tag 46: 03. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 16 - 17).
+
+**Gedanken:** Die coding exercises habe ich sehr gut absolviert.
