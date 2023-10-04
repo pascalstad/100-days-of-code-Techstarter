@@ -328,3 +328,17 @@
 **Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 16 - 17).
 
 **Gedanken:** Die coding exercises habe ich sehr gut absolviert.
+
+
+### Tag 47: 04. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 18 - 20).
+
+**Gedanken:** Mit diesen exercises hatte ich keine Probleme.
+
+
+### Tag 48: 05. Oktober 2023
+
+**Heutiger Fortschritt**: 
+
+**Gedanken:** 
