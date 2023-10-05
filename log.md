@@ -339,6 +339,13 @@
 
 ### Tag 48: 05. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 21 - 23).
+
+**Gedanken:** Die 22 hat mich vor eine unlösbare Aufgabe gestellt. Allerdings nicht wegen dem Wissen über Java und seine Funktionen, sondern eher wegen der Mathematik dahinter.
+
+
+### Tag 49: 06. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
-**Gedanken:** 
+**Gedanken:**
