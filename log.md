@@ -346,6 +346,13 @@
 
 ### Tag 49: 06. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 24).
+
+**Gedanken:** Diese Aufgabe war etwas umfangreicher. Ich habe zwar länger gebraucht als ich dachte, aber bin sehr gut klar gekommen.
+
+
+### Tag 50: 07. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
