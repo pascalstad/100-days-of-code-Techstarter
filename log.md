@@ -353,6 +353,13 @@
 
 ### Tag 50: 07. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (70 - 71).
+
+**Gedanken:** Input an sich kannte ich schon, wobei es bei Java etwas anders aussieht. Die Parse Funktion kannte ich noch nicht.
+
+
+### Tag 51: 08. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
