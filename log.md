@@ -346,7 +346,7 @@
 
 ### Tag 49: 06. Oktober 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercises 24).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 24).
 
 **Gedanken:** Diese Aufgabe war etwas umfangreicher. Ich habe zwar länger gebraucht als ich dachte, aber bin sehr gut klar gekommen.
 
@@ -359,6 +359,27 @@
 
 
 ### Tag 51: 08. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 25).
+
+**Gedanken:** Ich hatte Probleme die Logik der Aufgabe zu verstehen. Nachdem ich mir Hilfe gesucht habe, konnte ich die Aufgabe relativ schnell lösen.
+
+
+### Tag 52: 09. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 26).
+
+**Gedanken:** Auch bei dieser Aufgabe habe ich lange gebraucht um die Logik zu verstehen, bzw. die Lösung umzusetzen.
+
+
+### Tag 53: 10. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 27).
+
+**Gedanken:** Ich bin mir nicht sicher, ob ich mich dumm anstelle oder nicht gut genug mit Mathe klar komme. Diese Aufgabe hat auch wieder sehr lange gedauert und ich musste mir Hilfe suchen, um sie komplett lösen zu können.
+
+
+### Tag 54: 11. Oktober 2023
 
 **Heutiger Fortschritt**: 
 
