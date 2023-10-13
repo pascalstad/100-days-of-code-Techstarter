@@ -381,6 +381,25 @@
 
 ### Tag 54: 11. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (72).
+
+**Gedanken:** Zurück zum User Input. Ich musste mir die vorherigen Videos nocheinmal anschauen, da ich durch die coding exercises wieder raus war. Dafür denke  cih habe ich verstanden wie es funktioniert.
+
+
+### Tag 55: 12. Oktober 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt
+
+
+### Tag 56: 13. Oktober 2023
+
+**Heutiger Fortschritt**: 
+
+**Gedanken:**
+
+
+### Tag 57: 14. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:**
