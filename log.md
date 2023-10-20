@@ -383,22 +383,59 @@
 
 **Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (72).
 
-**Gedanken:** Zurück zum User Input. Ich musste mir die vorherigen Videos nocheinmal anschauen, da ich durch die coding exercises wieder raus war. Dafür denke  cih habe ich verstanden wie es funktioniert.
+**Gedanken:** Zurück zum User Input. Ich musste mir die vorherigen Videos nocheinmal anschauen, da ich durch die coding exercises wieder raus war. Dafür denke ich, habe ich verstanden wie es funktioniert.
 
 
 ### Tag 55: 12. Oktober 2023
 
-**Heutiger Fortschritt**: Kein Fortschritt
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (73).
+
+**Gedanken:** Die Challenge hat mir gezeigt, dass ich das Thema verstanden habe, auch wenn ich einen Moment gebraucht habe es zu lösen.
 
 
 ### Tag 56: 13. Oktober 2023
 
-**Heutiger Fortschritt**: 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (74).
+
+**Gedanken:** Diese Challenge konnte ich schon etwas schneller lösen als die vorherige.
+
+
+### Tag 57: 14. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 28).
+
+**Gedanken:** Ich bin gut klar gekommen mit der Aufgabe. Den Scanner in Java sollte ich recht gut verstanden haben.
+
+
+### Tag 58: 15. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 6 (coding exercise 29).
+
+**Gedanken:** Die Aufgabe war kein Problem für mich. Als ich geschaut habe, wie andere es gelöst haben, durfte ich feststellen, dass ich die Aufgabe deutlich kürzer hätte lösen können. Ich versuche das im Kopf zu behalten und es beim nächsten Mal anzuwenden.
+
+
+### Tag 59: 16. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (75 - 77).
+
+**Gedanken:** Object Orientated Programming hat gestartet, aber zuerst gab es noch ein paar Informationen zu classes und private bzw. public variables und methods. Außerdem ging es los mit getter und setter methods.
+
+
+### Tag 60: 17. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (78 - 79).
+
+**Gedanken:** Die Challenge war schnell umgesetzt.
+
+
+### Tag 61: 18. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (coding exercise 30).
 
 **Gedanken:**
 
 
-### Tag 57: 14. Oktober 2023
+### Tag 62: 19. Oktober 2023
 
 **Heutiger Fortschritt**: 
 
