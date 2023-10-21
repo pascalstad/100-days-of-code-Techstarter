@@ -432,10 +432,31 @@
 
 **Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (coding exercise 30).
 
-**Gedanken:**
+**Gedanken:** Ich hatte zuerst zwei kleine Fehler im Code, weswegen er nicht alle Tests bestanden hat. Das Problem war dann schnell gelöst.
 
 
 ### Tag 62: 19. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (coding exercise 31).
+
+**Gedanken:** Auch diese exercise konnte ich schnell und ohne Probleme lösen.
+
+
+### Tag 63: 20. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (80 - 81).
+
+**Gedanken:** Ich habe verstanden was Constructor machen, aber ich glaube ich habe den Sinn noch nicht ganz erfassen können. Mal schauen wie morgen die Challenge läuft.
+
+
+### Tag 64: 21. Oktober 2023
+
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (82 - 8).
+
+**Gedanken:**
+
+
+### Tag 65: 22. Oktober 2023
 
 **Heutiger Fortschritt**: 
 
