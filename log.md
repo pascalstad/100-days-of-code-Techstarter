@@ -451,12 +451,17 @@
 
 ### Tag 64: 21. Oktober 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (82 - 8).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (82 - 83).
 
-**Gedanken:**
+**Gedanken:** Die Challenge lief gut und ich denke ich habe soweit alles verstanden.
 
 
 ### Tag 65: 22. Oktober 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt.
+
+
+### Tag 66: 23. Oktober 2023
 
 **Heutiger Fortschritt**: 
 
