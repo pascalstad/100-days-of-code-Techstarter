@@ -451,7 +451,7 @@
 
 ### Tag 64: 21. Oktober 2023
 
-**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (82 - 83).
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (82).
 
 **Gedanken:** Die Challenge lief gut und ich denke ich habe soweit alles verstanden.
 
@@ -463,6 +463,18 @@
 
 ### Tag 66: 23. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (83 - 85).
+
+**Gedanken:** Unterschiede zwischen Object, Instance und Class. Variablen und Methoden als Static und Instance. Alles erstmal noch etwas trocken, aber wenn ich es anwenden kann sehe ich, ob ich es verstanden habe.
+
+
+### Tag 67: 24. Oktober 2023
+
+**Heutiger Fortschritt**: Kein Fortschritt.
+
+
+### Tag 68: 25. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
-**Gedanken:**
+**Gedanken:** 
