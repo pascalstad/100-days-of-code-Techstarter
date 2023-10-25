@@ -475,6 +475,13 @@
 
 ### Tag 68: 25. Oktober 2023
 
+**Heutiger Fortschritt**: Udemy Kurs 'Java Programming Masterclass updated to Java 17' Abschnitt 7 (86 - 87).
+
+**Gedanken:** Die letzten Videos waren sehr viele Informationen, die für mich noch nicht richtig greifbar sind. Wenn ich das neu Gelernte anwenden kann, sehe ich ob ich alles verstanden habe.
+
+
+### Tag 69: 26. Oktober 2023
+
 **Heutiger Fortschritt**: 
 
 **Gedanken:** 
