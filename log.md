@@ -480,8 +480,9 @@
 **Gedanken:** Die letzten Videos waren sehr viele Informationen, die für mich noch nicht richtig greifbar sind. Wenn ich das neu Gelernte anwenden kann, sehe ich ob ich alles verstanden habe.
 
 
-### Tag 69: 26. Oktober 2023
+# Abschluss
 
-**Heutiger Fortschritt**: 
+Leider muss ich an diesem Punkt meine Challenge beenden - vorerst.
+Da ich mich auf den AWS Solution Architect Associate vorbereite und auch das Abschlussprojekt im Techstarter Kurs startet, werden die Prioritäten anders gesetzt.
+Ich werde den Udemy Kurs auf jeden Fall noch beenden und werde früher oder später auch noch für Minecraft weiter coden. Ich freue mich schon sehr darauf.
 
-**Gedanken:** 
