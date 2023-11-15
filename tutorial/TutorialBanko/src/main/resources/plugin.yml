@@ -1,0 +1,10 @@
+name: TutorialBanko
+version: '${project.version}'
+main: de.kampfzwerg.tutorialbanko.Main
+api-version: '1.20'
+authors: [Kampfzwerg]
+description: Bankos Tutorial
+
+commands:
+  timer:
+    permission: tutorialbanko.command.timer
